@@ -31,3 +31,18 @@ What is the value proposition for the custom software?
   - Some requirements you will not be able to gather, some of them customer will not be thinking of for now. Sometimes there will be no opportunity to ask a proper question(believe me, I saw it happened many times).
   - Assumptions come to help. You will be doing them implicitly anyway, so writing them down explicitly helps to communicate the solution and estimation inside your group and to the customer.
 
+## Estimation Timeline & Output Format
+    - You can spend on estimations couple of days. You may also spend a whole month for it. But if you spend a month, and the estimation was required two days after the request, you wasted your time and achieved nothing. It is highly important to know when the result is expected and what format will be convenient.
+    you need to know the estimation timeline and what format its expected in.
+    
+ # Estimation Team
+## Platform Experts
+Your system is likely to include some web apps, backend services, mobile apps and so on. Don't try to estimate everything on your own: bring the specialists. Delegate.
+
+## Fellow Architects
+ - The architects do also have their specialties as well. System architects, Data Architects are examples coming to my mind. You might want to ask their advise as well. Also, having another couple of eyes reviewing your system design always help to check if anything is missed.
+ - 
+## Subject Matter Experts
+ - 
+
+
